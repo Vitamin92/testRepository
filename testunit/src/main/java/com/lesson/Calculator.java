@@ -3,7 +3,7 @@ package com.lesson;
 public class Calculator {
 	
 	public int add (int a, int b){
-		System.out.println("change1");
+		System.out.println("some");
 		return a + b;
 	}
 	
